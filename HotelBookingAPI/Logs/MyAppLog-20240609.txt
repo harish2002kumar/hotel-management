@@ -1,0 +1,9 @@
+2024-06-09 10:11:55.368 +05:30 [INF] Request Received for AddUser: {"Email":"user@example.com","Password":"string","$type":"CreateUserDTO"}
+2024-06-09 10:20:58.262 +05:30 [INF] Request Received for AddUser: {"Email":"user@example.com","Password":"string","$type":"CreateUserDTO"}
+2024-06-09 10:22:08.362 +05:30 [INF] AddUser Response From Repository: {"UserId":1,"Message":"User Created Successfully","IsCreated":true,"$type":"CreateUserResponseDTO"}
+2024-06-09 10:25:45.066 +05:30 [INF] Request Received for AddUser: {"Email":"haris7shiv@gmail.com.com","Password":"Harish","$type":"CreateUserDTO"}
+2024-06-09 10:32:16.146 +05:30 [INF] AddUser Response From Repository: {"UserId":2,"Message":"User Created Successfully","IsCreated":true,"$type":"CreateUserResponseDTO"}
+2024-06-09 12:15:39.917 +05:30 [INF] Request Received for AddUser: {"Email":"haris7shiv@gmail.com","Password":"Harish","$type":"CreateUserDTO"}
+2024-06-09 12:31:18.260 +05:30 [INF] AddUser Response From Repository: {"UserId":3,"Message":"User Created Successfully","IsCreated":true,"$type":"CreateUserResponseDTO"}
+2024-06-09 12:46:58.107 +05:30 [INF] Request Received for AddUser: {"Email":"anounsiya7@gmail.com","Password":"anounanoy","$type":"CreateUserDTO"}
+2024-06-09 12:47:04.024 +05:30 [INF] AddUser Response From Repository: {"UserId":4,"Message":"User Created Successfully","IsCreated":true,"$type":"CreateUserResponseDTO"}

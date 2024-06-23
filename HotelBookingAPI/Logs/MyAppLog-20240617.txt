@@ -1,0 +1,2 @@
+2024-06-17 16:39:22.461 +05:30 [INF] Request Received for CalculateRoomCosts: {"RoomIDs":[0],"CheckInDate":"2024-06-19T00:00:00.0000000","CheckOutDate":"2024-06-21T00:00:00.0000000","$type":"RoomCostsDTO"}
+2024-06-17 16:49:55.071 +05:30 [INF] Request Received for CalculateRoomCosts: {"RoomIDs":[0],"CheckInDate":"2024-06-19T00:00:00.0000000","CheckOutDate":"2024-06-21T00:00:00.0000000","$type":"RoomCostsDTO"}
